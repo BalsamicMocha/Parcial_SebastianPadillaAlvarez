@@ -728,7 +728,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Centro: {x: 0, y: 0, z: 0}
-  Tamanio: {x: 10, y: 0, z: 10}
+  Tamanio: {x: 10, y: 10, z: 0}
   minDelay: 0
   maxDelay: 1.5
   objetivo: {fileID: 4554788681924672774, guid: f3695e2f204e8fa40b6ee2f66ee90f8e, type: 3}
